@@ -1,0 +1,24 @@
+
+{
+  "currency": "NOK",
+  "basePricing": {
+    "points": [
+      { "sqm": 0, "price": 500 },
+      { "sqm": 50, "price": 800 },
+      { "sqm": 80, "price": 1000 },
+      { "sqm": 170, "price": 1500 },
+      { "sqm": 300, "price": 2500 }
+    ]
+  },
+  "services": {
+    "standard": { "multiplier": 1, "label": "Standard Rengjøring" },
+    "moveout": { "multiplier": 2.2, "label": "Flyttevask" },
+    "afterparty": { "multiplier": 1.5, "label": "Etter Fest" },
+    "deepclean": { "multiplier": 3.0, "label": "Hovedrengjøring (Tomt hus)" }
+  },
+  "extras": {
+    "windows": { "min": 500, "max": 1000, "label": "Vindusvask" },
+    "organizing": { "pricePer80sqm": 1000, "label": "Rydding & Organisering" }
+  },
+  "hourlyRate": { "min": 300, "max": 370, "label": "Timepris (Førstegangsvask)" }
+}

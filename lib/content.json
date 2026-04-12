@@ -1,0 +1,414 @@
+
+{
+  "defaultLocale": "no",
+  "locales": {
+    "no": {
+      "nav": {
+        "services": "Tjenester",
+        "pricing": "Priser",
+        "about": "Om Oss",
+        "reviews": "Anmeldelser",
+        "faq": "FAQ",
+        "contact": "Kontakt",
+        "cta": "Få Prisoverslag"
+      },
+      "hero": {
+        "badge": "Din private renholder i Notodden",
+        "title": "Plettfrie Hjem. \nKrystallklare Priser.",
+        "subtitle": "Premium renholdstjenester med personlig ansvar. Ingen skjulte gebyrer, ingen mellomledd. Bare et skinnende rent hjem.",
+        "ctaPrimary": "Beregn Pris Nå",
+        "ctaSecondary": "Se Våre Tjenester",
+        "imageUrl": "https://picsum.photos/seed/clean-living-room-hero/1600/1000"
+      },
+      "socialProof": {
+        "text": "Stolt valgt av familier og utleiere i Notodden kommune",
+        "stats": [
+          { "value": "5.0", "label": "Kundeanmeldelser" },
+          { "value": "100%", "label": "Fornøydgaranti" },
+          { "value": "Fast", "label": "Pris per m²" }
+        ]
+      },
+      "services": {
+        "badge": "Vår Ekspertise",
+        "title": "Omfattende Renholdstjenester",
+        "subtitle": "Fra ukentlig vedlikehold til krevende flyttevask. Vi leverer kompromissløs kvalitet tilpasset dine behov.",
+        "items": [
+          {
+            "id": "standard",
+            "title": "Standard Rengjøring",
+            "description": "Regelmessig vedlikehold av hjemmet ditt. Støvtørking, støvsuging, gulvvask og rengjøring av bad/kjøkken.",
+            "icon": "home"
+          },
+          {
+            "id": "moveout",
+            "title": "Flyttevask",
+            "description": "Grundig nedvask for å sikre at utleier eller ny eier blir fornøyd. Inkluderer skap, lister og hvitevarer.",
+            "icon": "box"
+          },
+          {
+            "id": "windows",
+            "title": "Vindusvask",
+            "description": "Krystallklare vinduer innvendig og utvendig. Fjerner smuss, striper og forurensning effektivt.",
+            "icon": "window"
+          },
+          {
+            "id": "organizing",
+            "title": "Rydding & Organisering",
+            "description": "Vår unike spesialitet. Vi hjelper deg med å sortere, organisere og skape et ryddig system i hjemmet.",
+            "icon": "layers"
+          },
+          {
+            "id": "afterparty",
+            "title": "Rengjøring Etter Fest",
+            "description": "Slapp av etter feiringen. Vi tar oss av alt rotet, fjerner flekker og gjenoppretter hjemmet ditt.",
+            "icon": "sparkles"
+          },
+          {
+            "id": "deepclean",
+            "title": "Hovedrengjøring",
+            "description": "Dyprens av boliger som har stått tomme lenge (4-6 mnd), eller for en skikkelig vårrengjøring.",
+            "icon": "shield"
+          }
+        ]
+      },
+      "calculator": {
+        "badge": "Gjennomsiktig Prising",
+        "title": "Beregn Din Pris",
+        "subtitle": "Bruk kalkulatoren for å få et umiddelbart estimat basert på boligens størrelse. Ingen overraskelser.",
+        "sqmLabel": "Boligens størrelse (m²)",
+        "serviceTypeLabel": "Type Rengjøring",
+        "estimatedPrice": "Estimert Pris",
+        "disclaimer": "*Førstegangsrengjøring tar ofte lengre tid og faktureres per time (300-370 kr/t). Kunden stiller med egne rengjøringsmidler.",
+        "bookCta": "Bestill Denne Prisen"
+      },
+      "trust": {
+        "badge": "Hvorfor Velge Oss",
+        "title": "Forskjellen Ligger i Detaljene",
+        "subtitle": "Vi er ikke et stort, upersonlig byrå. Vi er din dedikerte partner for et renere hjem.",
+        "comparison": {
+          "us": {
+            "title": "Makarenko Renhold",
+            "points": ["Fast, forutsigbar pris", "Direkte kontakt med utfører", "Personlig ansvar for resultatet", "Fleksibel og skreddersydd"]
+          },
+          "them": {
+            "title": "Store Byråer",
+            "points": ["Skjulte gebyrer og tillegg", "Komplisert kommunikasjon", "Ulike renholdere hver gang", "Strenge standardpakker"]
+          }
+        }
+      },
+      "whyUs": {
+        "items": [
+          { "title": "Personlig Ansvar", "description": "Som privat aktør står mitt eget navn på spill. Kvalitet er min høyeste prioritet." },
+          { "title": "Ingen Skjulte Kostnader", "description": "Du vet nøyaktig hva det koster før vi starter. Prisene er basert på kvadratmeter." },
+          { "title": "Dine Produkter", "description": "Vi bruker dine foretrukne rengjøringsmidler for å sikre at overflater og allergier ivaretas." },
+          { "title": "Fleksibilitet", "description": "Trenger du hjelp til rydding før vask? Vi tilpasser oss dine spesifikke behov." }
+        ]
+      },
+      "process": {
+        "badge": "Slik Fungerer Det",
+        "title": "Enkel Vei Til Et Rent Hjem",
+        "steps": [
+          { "title": "Få Prisoverslag", "description": "Bruk kalkulatoren eller kontakt oss med boligens størrelse." },
+          { "title": "Avtal Tid", "description": "Vi finner et tidspunkt som passer din timeplan perfekt." },
+          { "title": "Klargjør Utstyr", "description": "Sett frem dine foretrukne rengjøringsmidler (vi bruker kundens utstyr)." },
+          { "title": "Nyt Resultatet", "description": "Kom hjem til en skinnende ren bolig, utført med presisjon." }
+        ]
+      },
+      "beforeAfter": {
+        "badge": "Resultater",
+        "title": "Forskjellen Vi Gjør",
+        "beforeLabel": "Før",
+        "afterLabel": "Etter",
+        "imageBefore": "https://picsum.photos/seed/messy-room-before/800/600",
+        "imageAfter": "https://picsum.photos/seed/clean-room-after/800/600"
+      },
+      "testimonials": {
+        "badge": "Kundeomtaler",
+        "title": "Hva Våre Kunder Sier",
+        "items": [
+          { "name": "Kari N.", "role": "Huseier, Notodden", "text": "Helt fantastisk service! Anna tok flyttevasken for oss, og huseier var strålende fornøyd. Veldig deilig med fast pris på forhånd.", "rating": 5 },
+          { "name": "Thomas E.", "role": "Småbarnsfar", "text": "Vi bruker Makarenko for regelmessig vask. Det at vi har direkte kontakt og alltid samme person gir stor trygghet. Anbefales sterkt.", "rating": 5 },
+          { "name": "Ingrid L.", "role": "Utleier", "text": "Trengte akutt hjelp etter at leietakere flyttet ut. Rask respons, utrolig grundig arbeid og prisen var akkurat som avtalt.", "rating": 5 }
+        ]
+      },
+      "gallery": {
+        "badge": "Vårt Arbeid",
+        "title": "Plettfrie Resultater",
+        "items": [
+          { "url": "https://picsum.photos/seed/clean-kitchen-1/800/800", "alt": "Rent kjøkken" },
+          { "url": "https://picsum.photos/seed/clean-bathroom-2/800/600", "alt": "Skinnende bad" },
+          { "url": "https://picsum.photos/seed/clean-living-3/600/800", "alt": "Stue" },
+          { "url": "https://picsum.photos/seed/clean-windows-4/800/600", "alt": "Vindusvask" },
+          { "url": "https://picsum.photos/seed/clean-office-5/600/600", "alt": "Kontor" },
+          { "url": "https://picsum.photos/seed/clean-hallway-6/800/800", "alt": "Gang" }
+        ]
+      },
+      "video": {
+        "title": "Se Hvordan Vi Jobber",
+        "description": "Presisjon og grundighet i hvert eneste rom.",
+        "posterUrl": "https://picsum.photos/seed/cleaning-action-video/1200/600"
+      },
+      "team": {
+        "badge": "Din Renholder",
+        "title": "Møt Anna",
+        "items": [
+          {
+            "name": "Anna Makarenko",
+            "role": "Grunnlegger & Profesjonell Renholder",
+            "bio": "Med lang erfaring og et øye for detaljer, startet jeg Makarenko Renhold for å tilby en mer personlig og pålitelig tjeneste i Notodden. For meg er renhold mer enn bare en jobb – det handler om å skape et trivelig miljø for deg og din familie.",
+            "imageUrl": "https://picsum.photos/seed/anna-portrait-cleaner/400/500"
+          }
+        ]
+      },
+      "faq": {
+        "badge": "Spørsmål & Svar",
+        "title": "Ofte Stilte Spørsmål",
+        "items": [
+          { "question": "Hvem stiller med rengjøringsmidler?", "answer": "Kunden stiller med alle rengjøringsmidler og utstyr (støvsuger, mopp etc). Dette sikrer at vi bruker produkter du er komfortabel med, og som er trygge for dine spesifikke overflater og eventuelle allergier." },
+          { "question": "Hvordan fungerer prisingen?", "answer": "Vi opererer med faste priser basert på boligens størrelse for de fleste tjenester (f.eks. 80 kvm = 1000 kr). Dette gir deg full forutsigbarhet uten skjulte avgifter." },
+          { "question": "Hva koster førstegangsrengjøring?", "answer": "Den første rengjøringen tar alltid lengre tid for å etablere en god standard. Derfor faktureres denne per time (300-370 kr/t) avhengig av boligens tilstand." },
+          { "question": "Tilbyr dere flyttevask?", "answer": "Ja, vi er spesialister på flyttevask. Pris for 150-200 kvm ligger normalt mellom 2200-3300 kr. Vi sørger for at boligen er klar for overlevering." },
+          { "question": "Hva innebærer 'Rydding og organisering'?", "answer": "Hvis boligen er veldig rotete, kan vi hjelpe med å rydde, sortere og organisere før selve rengjøringen starter. For et hus på ca 80 kvm koster dette rundt 1000 kr." },
+          { "question": "Vasker dere vinduer?", "answer": "Ja! Vindusvask koster mellom 500-1000 kr avhengig av antall vinduer og boligens størrelse." },
+          { "question": "Er det bindingstid?", "answer": "Nei, vi har ingen bindingstid. Du kan bestille oss for et engangsoppdrag eller sette opp en fast avtale som passer deg." },
+          { "question": "Hvilke områder dekker dere?", "answer": "Vi leverer våre tjenester primært i Notodden kommune og nærliggende områder." },
+          { "question": "Hvordan betaler jeg?", "answer": "Vi sender faktura etter utført oppdrag. For større oppdrag som flyttevask kan det avtales delbetaling." },
+          { "question": "Hva skjer hvis jeg ikke er fornøyd?", "answer": "Vi har personlig ansvar for resultatet. Skulle det være noe som ikke møter forventningene, retter vi opp i dette umiddelbart uten ekstra kostnad." }
+        ]
+      },
+      "ctaBanner": {
+        "title": "Klar for et skinnende rent hjem?",
+        "subtitle": "Kontakt oss i dag for et uforpliktende prisoverslag. Raskt, enkelt og transparent.",
+        "button": "Kontakt Oss Nå"
+      },
+      "contact": {
+        "badge": "Kontakt",
+        "title": "La Oss Ta En Prat",
+        "subtitle": "Fyll ut skjemaet nedenfor, eller kontakt oss direkte på telefon eller e-post.",
+        "form": {
+          "name": "Ditt Navn",
+          "email": "E-postadresse",
+          "phone": "Telefonnummer",
+          "sqm": "Boligens størrelse (m²)",
+          "message": "Beskriv hva du trenger hjelp til",
+          "submit": "Send Forespørsel",
+          "success": "Takk! Vi kontakter deg snart med et prisoverslag."
+        },
+        "info": {
+          "phone": "+47 966 84 397",
+          "email": "annadizhenko@gmail.com",
+          "location": "Notodden, Norge",
+          "hours": "Man - Fre: 08:00 - 16:00"
+        }
+      },
+      "footer": {
+        "description": "Profesjonell, privat renholdstjeneste i Notodden. Vi leverer kvalitet med personlig ansvar og faste priser.",
+        "rights": "Alle rettigheter reservert."
+      }
+    },
+    "en": {
+      "nav": {
+        "services": "Services",
+        "pricing": "Pricing",
+        "about": "About Us",
+        "reviews": "Reviews",
+        "faq": "FAQ",
+        "contact": "Contact",
+        "cta": "Get Estimate"
+      },
+      "hero": {
+        "badge": "Your Private Cleaner in Notodden",
+        "title": "Spotless Homes. \nCrystal Clear Prices.",
+        "subtitle": "Premium cleaning services with personal responsibility. No hidden fees, no middlemen. Just a brilliantly clean home.",
+        "ctaPrimary": "Calculate Price Now",
+        "ctaSecondary": "View Our Services",
+        "imageUrl": "https://picsum.photos/seed/clean-living-room-hero/1600/1000"
+      },
+      "socialProof": {
+        "text": "Proudly chosen by families and landlords in Notodden",
+        "stats": [
+          { "value": "5.0", "label": "Customer Reviews" },
+          { "value": "100%", "label": "Satisfaction Guarantee" },
+          { "value": "Fixed", "label": "Price per sqm" }
+        ]
+      },
+      "services": {
+        "badge": "Our Expertise",
+        "title": "Comprehensive Cleaning Services",
+        "subtitle": "From weekly maintenance to demanding move-out cleans. We deliver uncompromising quality tailored to your needs.",
+        "items": [
+          {
+            "id": "standard",
+            "title": "Standard Cleaning",
+            "description": "Regular maintenance of your home. Dusting, vacuuming, mopping, and bathroom/kitchen cleaning.",
+            "icon": "home"
+          },
+          {
+            "id": "moveout",
+            "title": "Move-out Cleaning",
+            "description": "Thorough deep clean to ensure landlords or new owners are satisfied. Includes cabinets and appliances.",
+            "icon": "box"
+          },
+          {
+            "id": "windows",
+            "title": "Window Cleaning",
+            "description": "Crystal clear windows inside and out. Effectively removes dirt, streaks, and pollution.",
+            "icon": "window"
+          },
+          {
+            "id": "organizing",
+            "title": "Decluttering & Organizing",
+            "description": "Our unique specialty. We help you sort, organize, and create a tidy system in your home.",
+            "icon": "layers"
+          },
+          {
+            "id": "afterparty",
+            "title": "After-Party Cleaning",
+            "description": "Relax after the celebration. We handle the mess, remove stains, and restore your home.",
+            "icon": "sparkles"
+          },
+          {
+            "id": "deepclean",
+            "title": "Deep Cleaning",
+            "description": "Deep clean for homes left empty for long periods (4-6 months), or for a proper spring clean.",
+            "icon": "shield"
+          }
+        ]
+      },
+      "calculator": {
+        "badge": "Transparent Pricing",
+        "title": "Calculate Your Price",
+        "subtitle": "Use the calculator to get an instant estimate based on your home's size. No surprises.",
+        "sqmLabel": "Home Size (sqm)",
+        "serviceTypeLabel": "Cleaning Type",
+        "estimatedPrice": "Estimated Price",
+        "disclaimer": "*First-time cleaning often takes longer and is billed hourly (300-370 NOK/h). Client provides cleaning supplies.",
+        "bookCta": "Book This Price"
+      },
+      "trust": {
+        "badge": "Why Choose Us",
+        "title": "The Difference is in the Details",
+        "subtitle": "We are not a large, impersonal agency. We are your dedicated partner for a cleaner home.",
+        "comparison": {
+          "us": {
+            "title": "Makarenko Renhold",
+            "points": ["Fixed, predictable pricing", "Direct contact with the cleaner", "Personal responsibility for results", "Flexible and tailored"]
+          },
+          "them": {
+            "title": "Large Agencies",
+            "points": ["Hidden fees and surcharges", "Complicated communication", "Different cleaners every time", "Strict standard packages"]
+          }
+        }
+      },
+      "whyUs": {
+        "items": [
+          { "title": "Personal Responsibility", "description": "As a private operator, my own name is on the line. Quality is my highest priority." },
+          { "title": "No Hidden Costs", "description": "You know exactly what it costs before we start. Prices are based on square meters." },
+          { "title": "Your Products", "description": "We use your preferred cleaning supplies to ensure surfaces and allergies are respected." },
+          { "title": "Flexibility", "description": "Need help decluttering before cleaning? We adapt to your specific needs." }
+        ]
+      },
+      "process": {
+        "badge": "How It Works",
+        "title": "Simple Path to a Clean Home",
+        "steps": [
+          { "title": "Get Estimate", "description": "Use the calculator or contact us with your home's size." },
+          { "title": "Schedule Time", "description": "We find a time that fits your schedule perfectly." },
+          { "title": "Prepare Supplies", "description": "Set out your preferred cleaning supplies (we use the client's equipment)." },
+          { "title": "Enjoy Results", "description": "Come home to a brilliantly clean house, done with precision." }
+        ]
+      },
+      "beforeAfter": {
+        "badge": "Results",
+        "title": "The Difference We Make",
+        "beforeLabel": "Before",
+        "afterLabel": "After",
+        "imageBefore": "https://picsum.photos/seed/messy-room-before/800/600",
+        "imageAfter": "https://picsum.photos/seed/clean-room-after/800/600"
+      },
+      "testimonials": {
+        "badge": "Customer Reviews",
+        "title": "What Our Clients Say",
+        "items": [
+          { "name": "Kari N.", "role": "Homeowner, Notodden", "text": "Absolutely fantastic service! Anna did the move-out clean for us, and the landlord was thrilled. Very nice to have a fixed price upfront.", "rating": 5 },
+          { "name": "Thomas E.", "role": "Father", "text": "We use Makarenko for regular cleaning. Having direct contact and always the same person provides great peace of mind. Highly recommended.", "rating": 5 },
+          { "name": "Ingrid L.", "role": "Landlord", "text": "Needed urgent help after tenants moved out. Quick response, incredibly thorough work, and the price was exactly as agreed.", "rating": 5 }
+        ]
+      },
+      "gallery": {
+        "badge": "Our Work",
+        "title": "Spotless Results",
+        "items": [
+          { "url": "https://picsum.photos/seed/clean-kitchen-1/800/800", "alt": "Clean kitchen" },
+          { "url": "https://picsum.photos/seed/clean-bathroom-2/800/600", "alt": "Shining bathroom" },
+          { "url": "https://picsum.photos/seed/clean-living-3/600/800", "alt": "Living room" },
+          { "url": "https://picsum.photos/seed/clean-windows-4/800/600", "alt": "Window cleaning" },
+          { "url": "https://picsum.photos/seed/clean-office-5/600/600", "alt": "Office" },
+          { "url": "https://picsum.photos/seed/clean-hallway-6/800/800", "alt": "Hallway" }
+        ]
+      },
+      "video": {
+        "title": "See How We Work",
+        "description": "Precision and thoroughness in every single room.",
+        "posterUrl": "https://picsum.photos/seed/cleaning-action-video/1200/600"
+      },
+      "team": {
+        "badge": "Your Cleaner",
+        "title": "Meet Anna",
+        "items": [
+          {
+            "name": "Anna Makarenko",
+            "role": "Founder & Professional Cleaner",
+            "bio": "With extensive experience and an eye for detail, I started Makarenko Renhold to offer a more personal and reliable service in Notodden. For me, cleaning is more than just a job – it's about creating a pleasant environment for you and your family.",
+            "imageUrl": "https://picsum.photos/seed/anna-portrait-cleaner/400/500"
+          }
+        ]
+      },
+      "faq": {
+        "badge": "Q&A",
+        "title": "Frequently Asked Questions",
+        "items": [
+          { "question": "Who provides the cleaning supplies?", "answer": "The client provides all cleaning supplies and equipment (vacuum, mop, etc.). This ensures we use products you are comfortable with, safe for your specific surfaces and any allergies." },
+          { "question": "How does pricing work?", "answer": "We operate with fixed prices based on the size of the home for most services (e.g., 80 sqm = 1000 NOK). This gives you full predictability with no hidden fees." },
+          { "question": "What does the first-time cleaning cost?", "answer": "The first cleaning always takes longer to establish a good standard. Therefore, this is billed hourly (300-370 NOK/h) depending on the condition of the home." },
+          { "question": "Do you offer move-out cleaning?", "answer": "Yes, we specialize in move-out cleaning. The price for 150-200 sqm is normally between 2200-3300 NOK. We ensure the home is ready for handover." },
+          { "question": "What does 'Decluttering and organizing' entail?", "answer": "If the home is very cluttered, we can help tidy, sort, and organize before the actual cleaning starts. For a house of about 80 sqm, this costs around 1000 NOK." },
+          { "question": "Do you wash windows?", "answer": "Yes! Window cleaning costs between 500-1000 NOK depending on the number of windows and the size of the home." },
+          { "question": "Is there a lock-in period?", "answer": "No, we have no lock-in period. You can book us for a one-time job or set up a regular agreement that suits you." },
+          { "question": "What areas do you cover?", "answer": "We provide our services primarily in Notodden municipality and surrounding areas." },
+          { "question": "How do I pay?", "answer": "We send an invoice after the job is completed. For larger jobs like move-out cleaning, partial payment can be arranged." },
+          { "question": "What happens if I'm not satisfied?", "answer": "We take personal responsibility for the result. Should anything not meet expectations, we will correct it immediately at no extra cost." }
+        ]
+      },
+      "ctaBanner": {
+        "title": "Ready for a spotlessly clean home?",
+        "subtitle": "Contact us today for a no-obligation estimate. Fast, simple, and transparent.",
+        "button": "Contact Us Now"
+      },
+      "contact": {
+        "badge": "Contact",
+        "title": "Let's Talk",
+        "subtitle": "Fill out the form below, or contact us directly by phone or email.",
+        "form": {
+          "name": "Your Name",
+          "email": "Email Address",
+          "phone": "Phone Number",
+          "sqm": "Home Size (sqm)",
+          "message": "Describe what you need help with",
+          "submit": "Send Request",
+          "success": "Thank you! We will contact you soon with an estimate."
+        },
+        "info": {
+          "phone": "+47 966 84 397",
+          "email": "annadizhenko@gmail.com",
+          "location": "Notodden, Norway",
+          "hours": "Mon - Fri: 08:00 - 16:00"
+        }
+      },
+      "footer": {
+        "description": "Professional, private cleaning service in Notodden. We deliver quality with personal responsibility and fixed prices.",
+        "rights": "All rights reserved."
+      }
+    }
+  }
+}
