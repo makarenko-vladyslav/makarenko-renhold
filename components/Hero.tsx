@@ -41,7 +41,7 @@ export default function Hero() {
             {t('hero.badge')}
           </div>
           
-          <h1 className="text-5xl md:text-6xl lg:text-7xl font-display font-extrabold leading-[1.1] tracking-tight mb-6 whitespace-pre-line">
+          <h1 className="text-5xl md:text-6xl lg:text-7xl font-display font-extrabold leading-[1.1] tracking-tight mb-6 whitespace-pre-line font-bold">
             {t('hero.title')}
           </h1>
           
