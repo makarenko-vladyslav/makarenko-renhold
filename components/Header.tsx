@@ -34,7 +34,7 @@ export default function Header() {
           <div className="w-8 h-8 rounded-lg bg-accent items-center justify-center text-white font-bold text-xl shadow-lg shadow-accent/30 group-hover:scale-105 transition-transform hidden">
             M
           </div>
-          <span className={`font-display text-xl tracking-tighter w-fit h-fit opacity-90 shadow-lg cursor-pointer font-black uppercase ${scrolled ? 'text-neutral-900' : 'text-gray-100 drop-shadow-md'}`}>
+          <span className={`font-display text-xl tracking-tighter w-fit h-fit opacity-90 shadow-lg cursor-pointer font-black uppercase text-zinc-200 ${scrolled ? 'text-neutral-900' : 'text-gray-100 drop-shadow-md'}`}>
             Makarenko
           </span>
         </a>
