@@ -31,10 +31,10 @@ export default function Header() {
     >
       <div className="max-w-7xl mx-auto px-6 flex items-center justify-between">
         <a href="#" className="flex items-center gap-2 group">
-          <div className="w-8 h-8 rounded-lg bg-accent items-center justify-center text-white font-bold text-xl shadow-lg shadow-accent/30 group-hover:scale-105 transition-transform hidden">
+          <div className="w-8 h-8 rounded-lg bg-accent flex items-center justify-center text-white font-bold text-xl shadow-lg shadow-accent/30 group-hover:scale-105 transition-transform">
             M
           </div>
-          <span className={`font-display text-xl tracking-tighter w-fit h-fit opacity-90 shadow-lg cursor-pointer font-black uppercase text-zinc-100 ${scrolled ? 'text-zinc-100' : 'text-zinc-100 drop-shadow-md'}`}>
+          <span className={`font-display font-bold text-xl tracking-tight ${scrolled ? 'text-primary' : 'text-white drop-shadow-md'}`}>
             Makarenko
           </span>
         </a>
